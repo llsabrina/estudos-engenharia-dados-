@@ -9,7 +9,7 @@ do estudante na instituição. O resultado é salvo em CSV ao final.
 - 🐍 Python 3.13
 - 🐼 Pandas
 
-## Arquivos
+## 📊 Arquivos
 - `aula01_pandas_basico.py` — criação de DataFrames, filtros, ordenação e merge básico
 - `aula02_etl.py` — leitura de CSVs, transformações e exportação do resultado
 - `aula03_funcoes.py` — pipeline ETL organizado em funções reutilizáveis
