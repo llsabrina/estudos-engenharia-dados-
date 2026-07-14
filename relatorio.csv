@@ -1,0 +1,43 @@
+id_aluno,nome,curso,status,mensalidade,id_pagamento,mes,valor,status_pagamento
+1,Ana Silva,Administração,Matriculado,850.0,,,,
+2,Bruno Lima,Direito,Cancelado,1200.0,,,,
+3,Carla Souza,Administração,Matriculado,850.0,,,,
+4,Diego Matos,Medicina,Rematrícula,3500.0,,,,
+5,Elena Costa,Direito,Matriculado,1200.0,,,,
+6,Felipe Ramos,Medicina,Cancelado,3500.0,,,,
+7,Guilherme da Silva,Psicologia,Matriculado,2500.0,,,,
+8,Heloisa Fernandes,Psicologia,Rematrícula,2500.0,,,,
+1,Ana Silva,Administração,Matriculado,850.0,,,,
+3,Carla Souza,Administração,Matriculado,850.0,,,,
+4,Diego Matos,Medicina,Rematrícula,3500.0,,,,
+5,Elena Costa,Direito,Matriculado,1200.0,,,,
+7,Guilherme da Silva,Psicologia,Matriculado,2500.0,,,,
+1,,,,,1.0,Janeiro,850.0,Pago
+2,,,,,2.0,Janeiro,1200.0,Atrasado
+3,,,,,3.0,Janeiro,850.0,Pago
+4,,,,,4.0,Janeiro,3500.0,Pago
+5,,,,,5.0,Janeiro,1200.0,Atrasado
+6,,,,,6.0,Janeiro,3500.0,Pago
+1,,,,,7.0,Fevereiro,850.0,Pago
+3,,,,,8.0,Fevereiro,850.0,Atrasado
+1,Ana Silva,Administração,Matriculado,850.0,1.0,Janeiro,850.0,Pago
+1,Ana Silva,Administração,Matriculado,850.0,7.0,Fevereiro,850.0,Pago
+3,Carla Souza,Administração,Matriculado,850.0,3.0,Janeiro,850.0,Pago
+3,Carla Souza,Administração,Matriculado,850.0,8.0,Fevereiro,850.0,Atrasado
+4,Diego Matos,Medicina,Rematrícula,3500.0,4.0,Janeiro,3500.0,Pago
+5,Elena Costa,Direito,Matriculado,1200.0,5.0,Janeiro,1200.0,Atrasado
+7,Guilherme da Silva,Psicologia,Matriculado,2500.0,,,,
+1,Ana Silva,Administração,Matriculado,850.0,1.0,Janeiro,850.0,Pago
+1,Ana Silva,Administração,Matriculado,850.0,7.0,Fevereiro,850.0,Pago
+3,Carla Souza,Administração,Matriculado,850.0,3.0,Janeiro,850.0,Pago
+3,Carla Souza,Administração,Matriculado,850.0,8.0,Fevereiro,850.0,Atrasado
+4,Diego Matos,Medicina,Rematrícula,3500.0,4.0,Janeiro,3500.0,Pago
+5,Elena Costa,Direito,Matriculado,1200.0,5.0,Janeiro,1200.0,Atrasado
+7,Guilherme da Silva,Psicologia,Matriculado,2500.0,,,,
+1,Ana Silva,Administração,Matriculado,850.0,1.0,Janeiro,850.0,Pago
+1,Ana Silva,Administração,Matriculado,850.0,7.0,Fevereiro,850.0,Pago
+3,Carla Souza,Administração,Matriculado,850.0,3.0,Janeiro,850.0,Pago
+3,Carla Souza,Administração,Matriculado,850.0,8.0,Fevereiro,850.0,Atrasado
+4,Diego Matos,Medicina,Rematrícula,3500.0,4.0,Janeiro,3500.0,Pago
+5,Elena Costa,Direito,Matriculado,1200.0,5.0,Janeiro,1200.0,Atrasado
+7,Guilherme da Silva,Psicologia,Matriculado,2500.0,,,,
